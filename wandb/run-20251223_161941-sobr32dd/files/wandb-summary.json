@@ -1,0 +1,1 @@
+{"val/loss":0.007903890254405828,"train/acc":1,"test/acc":0.9038461492611811,"_wandb":{"runtime":1},"_runtime":1,"train/steps_per_sec":1340.941165338846,"test/loss":0.6473932174535898,"_step":200,"train/loss":0.00021627409994361802,"epoch":200,"_timestamp":1.7664779841846437e+09,"train/epoch_time_sec":0.005965958989690989,"val/acc":1,"train/peak_gpu_mem_mb":20.08154296875}
